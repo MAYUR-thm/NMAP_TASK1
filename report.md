@@ -1,6 +1,6 @@
 # Network Scan Report
 
-**Name:** Amrita  
+**Name:** Mayur Karanjiya
 **Date:** 22/10/2025
 
 ## Objective
@@ -19,3 +19,4 @@ To discover active hosts and open ports in the local network using Nmap.
 ## Conclusion
 The scan successfully detected live hosts and their open services.  
 Some insecure ports were identified and should be disabled or secured.
+
