@@ -1,6 +1,6 @@
 # NMAP_TASK1 — Network Reconnaissance Assignment
 
-**Name:** Amrita  
+**Name:** Mayur Karanjiya
 **Date:** 22/10/2025
 
 ## Description
@@ -17,3 +17,4 @@ nmap -sV -O 192.168.1.1 -oN outputs/detailed_192.168.1.1.txt
 - `outputs/` → Raw Nmap scan results  
 - `screenshots/` → Screenshots of commands and outputs  
 - `report.md` → Summary and findings
+
